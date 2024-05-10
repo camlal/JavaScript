@@ -14,7 +14,7 @@
         //javascript é usado para interpolar variaveis, ou seja, para retornar o valor dela 
 
         //Veja abaixo exemplo de como e quando usar as crases
-        let nome = 'pingu' ;
+        let nome = 'gabriel' ;
         let idade = 15; //Número usados sem aspas (simples ou duplas),
 
         let mensagem = `Olá, meu nome é ${nome} e tenho ${idade} anos` ;
